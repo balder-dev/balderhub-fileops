@@ -128,4 +128,4 @@ dmypy.json
 .pyre/
 
 #project specific
-/balderhub-fileops/src/balderhub/fileops/_version.py
+/src/balderhub/fileops/_version.py
